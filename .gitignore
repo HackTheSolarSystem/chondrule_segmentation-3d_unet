@@ -1,0 +1,5 @@
+*.nii.gz
+*.pyc
+*.nii
+*.png
+train_log/*
