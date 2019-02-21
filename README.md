@@ -2,7 +2,7 @@
  # 2D/3D Mineral Segmentation using 3D U-Net
 
 Addressing 
-2D and 3D Bubbles in Rock](https://github.com/amnh/HackTheSolarSystem/wiki/3D-and-2D-Bubbles-In-Rock)
+[2D and 3D Bubbles in Rock](https://github.com/amnh/HackTheSolarSystem/wiki/3D-and-2D-Bubbles-In-Rock)
 Created by Extraterrestrial Effervescence
 
 * John Oquist
